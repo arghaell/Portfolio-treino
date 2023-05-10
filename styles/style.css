@@ -120,6 +120,7 @@ body {
 }
 .apresentacao__imagem {
   width: 50%;
+  max-width: 600px;
 }
 .rodape {
   color: var(--cor-primaria);
